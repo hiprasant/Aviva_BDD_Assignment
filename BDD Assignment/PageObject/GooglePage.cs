@@ -1,4 +1,4 @@
-﻿using BDD_Assignment.Framework;
+﻿using BDD.Assignment.Framework;
 using OpenQA.Selenium;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BDD_Assignment.PageObject
+namespace BDD.Assignment.PageObject
 {
     public class GooglePage
     {

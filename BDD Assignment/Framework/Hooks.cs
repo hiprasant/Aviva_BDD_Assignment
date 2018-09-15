@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TechTalk.SpecFlow;
 
-namespace BDD_Assignment.Framework
+namespace BDD.Assignment.Framework
 {
     [Binding]
     public sealed class Hooks

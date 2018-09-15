@@ -1,11 +1,11 @@
-﻿using BDD_Assignment.Framework;
-using BDD_Assignment.PageObject;
+﻿using BDD.Assignment.Framework;
+using BDD.Assignment.PageObject;
 using NUnit.Framework;
 using System;
 using System.Linq;
 using TechTalk.SpecFlow;
 
-namespace BDD_Assignment.StepDefinitions
+namespace BDD.Assignment.StepDefinitions
 {
     [Binding]
     public class AssignmentFeatureSteps

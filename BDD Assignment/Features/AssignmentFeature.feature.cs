@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace BDD_Assignment.Features
+namespace BDD.Assignment.Features
 {
     using TechTalk.SpecFlow;
     
